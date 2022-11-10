@@ -50,5 +50,7 @@ public class ProductoController {
 		  productoService.eliminarProductoById(id);
 		  return "redirect:/productos";
 	 }
+	 
+	 //PRUENA SOFIA 
 	
 }
