@@ -51,6 +51,6 @@ public class ProductoController {
 		  return "redirect:/productos";
 	 }
 	 
-	 //PRUENA SOFIA 
+	 //PRUEBA DE  SOFIA AQUI
 	
 }
